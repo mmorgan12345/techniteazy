@@ -1,4 +1,4 @@
-from google import genai
+import google.generativeai as genai
 
 API_KEY="AQ.Ab8RN6JwKfYEBzQcR-cBSxv8vHeyNRiVeARk1u_T3ioihu8DhA"
 
